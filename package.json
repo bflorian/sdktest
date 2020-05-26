@@ -24,7 +24,8 @@
     "prepare": "npm run snyk-protect",
     "doc-gen": "typedoc --includeDeclarations --excludeExternals --out typedocs --json typedocs/doc.json lib",
     "md-doc-gen": "typedoc --includeDeclarations --excludeExternals --out doc --json typedocs/doc.json --excludePrivate --excludeProtected --excludeNotExported --disableSources --plugin typedoc-plugin-markdown lib",
-    "docgen": "typedoc --out docsrc --plugin typedoc-plugin-markdown lib"
+    "docgen": "typedoc --out docsrc --plugin typedoc-plugin-markdown lib",
+    "docpub": "node ./docs.js"
   },
   "engines": {
     "node": ">=8.9.4"
