@@ -94,7 +94,7 @@ ___
 
 ###  maxLength
 
-▸ **maxLength**(`number`: any): *[PasswordSetting](_pages_password_setting_d_.passwordsetting.md)*
+▸ **maxLength**(`value`: number): *[PasswordSetting](_pages_password_setting_d_.passwordsetting.md)*
 
 Set the maximum length of the password
 
@@ -102,7 +102,7 @@ Set the maximum length of the password
 
 Name | Type |
 ------ | ------ |
-`number` | any |
+`value` | number |
 
 **Returns:** *[PasswordSetting](_pages_password_setting_d_.passwordsetting.md)*
 
@@ -110,7 +110,7 @@ ___
 
 ###  minLength
 
-▸ **minLength**(`number`: any): *[PasswordSetting](_pages_password_setting_d_.passwordsetting.md)*
+▸ **minLength**(`value`: number): *[PasswordSetting](_pages_password_setting_d_.passwordsetting.md)*
 
 Set the minimum length of the password
 
@@ -118,7 +118,7 @@ Set the minimum length of the password
 
 Name | Type |
 ------ | ------ |
-`number` | any |
+`value` | number |
 
 **Returns:** *[PasswordSetting](_pages_password_setting_d_.passwordsetting.md)*
 

@@ -20,10 +20,10 @@ export class PasswordSetting extends SectionSetting<PasswordSetting> {
     /**
      * Set the maximum length of the password
      */
-    maxLength(number): PasswordSetting
+    maxLength(value: number): PasswordSetting
 
     /**
      * Set the minimum length of the password
      */
-    minLength(number): PasswordSetting
+    minLength(value: number): PasswordSetting
 }

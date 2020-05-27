@@ -30,5 +30,5 @@ export interface Logger {
     /**
      * Log a caught exception. The default logger display a stack trace when this method is used
      */
-    exception(error: Error)
+    exception(error: Error): void
 }

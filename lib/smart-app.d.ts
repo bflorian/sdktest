@@ -1,4 +1,5 @@
 import {Context, Handler} from 'aws-lambda'
+import {IncomingHttpHeaders} from 'http'
 import {i18n} from './i18n'
 import ConfigurationOptions = i18n.ConfigurationOptions
 import {Logger} from './util/log'
@@ -166,8 +167,8 @@ export interface ContextStore {
  * Request object for WEBHHOOK_SMART_APPs
  */
 export interface WebHookRequest {
-    headers: {[key: string]: string}
-    body: {[key: string]: any}
+    headers: IncomingHttpHeaders
+    body: any
 }
 
 /**

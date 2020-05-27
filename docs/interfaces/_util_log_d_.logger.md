@@ -54,7 +54,7 @@ Log a warning message
 
 ###  exception
 
-▸ **exception**(`error`: Error): *any*
+▸ **exception**(`error`: Error): *void*
 
 Log a caught exception. The default logger display a stack trace when this method is used
 
@@ -64,5 +64,5 @@ Name | Type |
 ------ | ------ |
 `error` | Error |
 
-**Returns:** *any*
+**Returns:** *void*
 

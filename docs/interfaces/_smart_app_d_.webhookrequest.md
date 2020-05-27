@@ -8,19 +8,11 @@
 
 ###  body
 
-• **body**: *object*
-
-#### Type declaration:
-
-* \[ **key**: *string*\]: any
+• **body**: *any*
 
 ___
 
 ###  headers
 
-• **headers**: *object*
-
-#### Type declaration:
-
-* \[ **key**: *string*\]: string
+• **headers**: *IncomingHttpHeaders*
 
