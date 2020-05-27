@@ -1,4 +1,4 @@
-[Reference](../README.md) › [SmartApp](../classes/_smart_app_d_.smartapp.md) ›  [PageStyle](_pages_page_d_.pagestyle.md)
+[Reference](../index) › [SmartApp](../classes/_smart_app_d_.smartapp.md) ›  [PageStyle](_pages_page_d_.pagestyle.md)
 # PageStyle
 ## Enumeration members
 ###  NORMAL

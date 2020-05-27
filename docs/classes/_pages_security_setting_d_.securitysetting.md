@@ -1,4 +1,4 @@
-[Reference](../README.md) › [SmartApp](_smart_app_d_.smartapp.md) › [Page](_pages_page_d_.page.md) › [Section](_pages_section_d_.section.md) ›  [SecuritySetting](_pages_security_setting_d_.securitysetting.md)
+[Reference](../index) › [SmartApp](_smart_app_d_.smartapp.md) › [Page](_pages_page_d_.page.md) › [Section](_pages_section_d_.section.md) ›  [SecuritySetting](_pages_security_setting_d_.securitysetting.md)
 
 # SecuritySetting
 

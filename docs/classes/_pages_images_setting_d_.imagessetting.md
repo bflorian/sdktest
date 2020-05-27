@@ -1,4 +1,4 @@
-[Reference](../README.md) › [SmartApp](_smart_app_d_.smartapp.md) › [Page](_pages_page_d_.page.md) › [Section](_pages_section_d_.section.md) ›  [ImagesSetting](_pages_images_setting_d_.imagessetting.md)
+[Reference](../index) › [SmartApp](_smart_app_d_.smartapp.md) › [Page](_pages_page_d_.page.md) › [Section](_pages_section_d_.section.md) ›  [ImagesSetting](_pages_images_setting_d_.imagessetting.md)
 
 # ImagesSetting
 

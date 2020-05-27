@@ -1,4 +1,4 @@
-[Reference](../README.md) › [SmartApp](_smart_app_d_.smartapp.md) › [Page](_pages_page_d_.page.md) › [Section](_pages_section_d_.section.md)
+[Reference](../index) › [SmartApp](_smart_app_d_.smartapp.md) › [Page](_pages_page_d_.page.md) › [Section](_pages_section_d_.section.md)
 # Section
 
 A section is a labeled collection of settings. The contents can be made collapsable if desired.

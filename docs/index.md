@@ -1,6 +1,9 @@
 # SmartApp SDK Reference
 
-The [SmartApp](classes/_smart_app_d_.smartapp.md) class is responsible complete definitionf 
+The [SmartApp](classes/_smart_app_d_.smartapp.md) class handles all SmartApp 
+[lifecycle events](https://smartthings.developer.samsung.com/docs/smartapps/lifecycles.html)
+and callbacks. It is instantiated and configured with handlers for appropriate and invoked
+in response to either web-server HTTP requests or AWS Lambda function calls. 
 
 ## Instantiation and Initialization
 

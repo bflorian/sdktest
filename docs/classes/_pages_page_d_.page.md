@@ -1,4 +1,4 @@
-[Reference](../README.md) › [SmartApp](_smart_app_d_.smartapp.md) › [Page](_pages_page_d_.page.md)
+[Reference](../index) › [SmartApp](_smart_app_d_.smartapp.md) › [Page](_pages_page_d_.page.md)
 
 # Page
 
